@@ -1,5 +1,5 @@
 # ha-restic
-Restic backup scripts with Home Assistant MQTT integration. It will auto create sesnor entities that track the state of your backups, show the backup size, last status, etc. 
+Restic backup scripts with Home Assistant MQTT integration. It will auto create sensor entities that track the state of your backups, show the backup size, last status, etc. 
 
 This is a set of scripts that allow you to define backups, targets and schedules in a Linux style. It also includes integration into Home Assistant via MQTT discovery. It allows you to define single backup jobs that can go automatically to multiple targets (for example onsite and offsite)
 
